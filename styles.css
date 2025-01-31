@@ -1,2 +1,12 @@
+main {
+    width: 200px; /* Set the width of the container */
+    background-color: purple; /* Set the background color to purple */
+    border-left: 5px solid green; /* Set the left border color and thickness */
+    padding: 10px; /* Set padding on all sides */
+}
 
-/* Your CSS Code here. */
+.heading {
+    font-size: 20px; /* Set the font size of the heading */
+    color: white; /* Set the text color to white */
+    text-decoration: underline; /* Underline the text */
+}
